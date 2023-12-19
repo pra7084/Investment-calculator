@@ -1,0 +1,33 @@
+.container{
+    color:white;
+    border-radius: 5px;
+    background: linear-gradient(180deg, #307e6c, #2b996d);
+    padding: 1rem;
+    max-width: 30rem;
+    margin: 2rem auto;
+}
+.input-group{
+     display:flex;
+    justify-content: space-evenly;
+     gap: 1.5rem;
+}
+.form{
+    margin:0.5rem;
+}
+.input-group label{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+     display: block; 
+  margin-bottom: 0.25rem;
+  font-weight: bold;
+  text-transform: uppercase; 
+}
+.input-group input{
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #76c0ae;
+  border-radius: 0.25rem;
+  background-color: transparent;
+  color: #c2e9e0;
+  font-size: 1rem;
+}
