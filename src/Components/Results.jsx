@@ -1,4 +1,5 @@
 const Result=()=>{
+
     return (
             <table id="result">  
                 <thead>
@@ -9,7 +10,7 @@ const Result=()=>{
                     <th>Invested Capital</th>
                 </thead>
                 <tbody>
-                    
+                   
                 </tbody>
             </table>
     );

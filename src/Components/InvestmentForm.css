@@ -31,3 +31,7 @@
   color: #c2e9e0;
   font-size: 1rem;
 }
+button{
+    max-width: 30rem;
+    margin:auto auto;
+}
